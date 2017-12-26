@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">N26 BitCoin</string>
+    <string name="bit_coin_market_price_label">BitCoin Market Price</string>
+    <string name="home_activity_name">N26BC</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="no_data_text">Touch refresh button to load data</string>
+</resources>
